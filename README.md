@@ -34,7 +34,9 @@ He realizado el grado superior de **Agencia de viajes y gestión de eventos** y 
 ## Otros datos de interés:
 
 *Vehículo propio*
+
 *Carnet de conducir tipo B*
+
 *Inglés nivel bajo-medio*
 
 ## Imagen:
