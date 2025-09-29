@@ -41,7 +41,8 @@ He realizado el grado superior de **Agencia de viajes y gestión de eventos** y 
 
 ## Imagen:
 
-[Programación](https://codelearn.es/wp-content/uploads/sites/4/2021/02/woman_programmer.png)
+![Programación]([https://codelearn.es/wp-content/uploads/sites/4/2021/02/woman_programmer.png)]
+
 
 ## Enlace:
 [5 mujeres programadoras que debes conocer](https://codelearn.es/blog/5-mujeres-programadoras-que-debes-conocer/)
