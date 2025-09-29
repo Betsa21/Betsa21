@@ -1,9 +1,13 @@
 # Datos personales:
 
 *Nombre: Betsabé Cardoso Canillas*
+
 *Año de nacimiento: 28/03/1995*
+
 *Teléfono: 665885457*
+
 *Correo electrónico: betcanillas@gmail.com*
+
 *Nacionalidad: España*
 
 
